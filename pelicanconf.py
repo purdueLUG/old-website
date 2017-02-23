@@ -26,10 +26,10 @@ THEME = "./themes/medius_modified"
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 
-MENUITEMS = (('Blog', 'blog/'),
-             ('Wiki','wiki/'),
-             ('About', 'about-us.html'),
-             ('Getting Help', 'getting-help.html'),
+MENUITEMS = (('Blog', '/blog/'),
+             ('Wiki','/wiki/'),
+             ('About', '/about-us.html'),
+             ('Getting Help', '/getting-help.html'),
              )
 
 # Social widget
