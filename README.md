@@ -1,7 +1,7 @@
-The purduelug.org pelican website.
+# The purduelug.org pelican website.
 
 ## Dependencies
-    pip install pelican pykwiki
+    pip install pelican pykwiki ghp-import
     
 ## Building and Publishing
 Use a live updating development server
@@ -13,5 +13,6 @@ Publish to github pages
     make publish
     
 Type `make` to see more options
+Use `git` as usual for managing wiki source content.
 
 
