@@ -1,5 +1,17 @@
 The purduelug.org pelican website.
 
-It uses `pelican` and `pykwiki`.
-
+## Dependencies
     pip install pelican pykwiki
+    
+## Building and Publishing
+Use a live updating development server
+
+    make devserver
+    
+Publish to github pages
+
+    make publish
+    
+Type `make` to see more options
+
+
