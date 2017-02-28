@@ -744,4 +744,11 @@ div.pagination {
   color: #0000cf;
   font-weight: bold; }
 
+/* tables */
+
+td, th {
+    padding: 10px;
+    border: solid 1px;
+}
+
 /*# sourceMappingURL=main.css.map */
