@@ -50,5 +50,5 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish: html
-	ghp-import -p -b master output
+	ghp-import -f -p -b master output
 
