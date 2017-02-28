@@ -19,13 +19,13 @@ You can find our irc at <a href="irc://irc.freenode.net/#purduelug">irc://irc.fr
 |   2015-16 | Evan Widloski    | Nick Geirland  | Jack Cottom | Jeff Hughes   | Jack Cottom     |
 |   2014-15 | Evan Widloski    | Nick Geirland  | Jack Cottom | Jeff Hughes   | Jack Cottom     |
 |   2013-14 | Thor Smith       |                |             |               |                 |
-|   2012-15 |                  |                |             |               |                 |
+|   2012-13 |                  |                |             |               |                 |
 |   2011-12 |                  |                |             |               |                 |
 |   2010-11 | Casey Drummer    |                |             |               |                 |
 |   2009-10 | Casey Drummer    |                |             |               |                 |
 |   2008-09 | Erik Nelson      |                |             |               |                 |
 |   2007-08 |                  |                |             |               |                 |
-|   2006-07 | Luke Hoersten    |                |             |               |                 |
+|   2006-07 | Luke Hoersten    | Michael Olson  |             |               |                 |
 |   2005-06 |                  |                |             |               |                 |
 |   2004-05 |                  |                |             |               |                 |
 |   2003-04 |                  |                |             |               |                 |
