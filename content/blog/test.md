@@ -1,8 +1,10 @@
-Title: test
-Date: 2016-01-28
-Category: test
-Tags: member meeting, linux 101, open source LAN
+Title: New Events for the New Semester
+Date: 2014-08-21 12:19
+Author: tootap
+Category: Uncategorized
+Slug: test
+Status: published
 
-# this is a test article
+Aug 23 - We have the B involved fair.
 
-![test things](http://evanw.org/about.svg)
+Aug 28 - We have the CS student Organization fair.

@@ -42,7 +42,7 @@ DEFAULT_PAGINATION = 10
 
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['blog']
-STATIC_PATHS = ['wiki/']
+STATIC_PATHS = ['files']
 # STATIC_EXCLUDE_SOURCES = False
 
 # Uncomment following line if you want document-relative URLs when developing
