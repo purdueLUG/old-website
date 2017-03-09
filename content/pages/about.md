@@ -10,6 +10,11 @@ expositions to the public at large, etc.
 
 You can find our irc at <a href="irc://irc.freenode.net/#purduelug">irc://irc.freenode.net/#purduelug</a>
 
+
+![github logo](/files/github.png)
+
+We also have a [Github group](http://github.com/purdueLUG) with some of our projects. 
+
 # Past Officers
 
 |      Year | President        | Vice President | Treasurer   | Webmaster     | Member at Large |
