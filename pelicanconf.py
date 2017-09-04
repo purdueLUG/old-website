@@ -27,6 +27,7 @@ THEME = "./themes/medius_modified"
 #          ('You can modify those links in your config file', '#'),)
 
 MENUITEMS = (('Blog', '/blog/'),
+             ('Calendar', '/calendar'),
              ('Wiki','/wiki/'),
              ('About', '/about-us.html'),
              ('Getting Help', '/getting-help.html'),
