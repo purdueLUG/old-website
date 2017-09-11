@@ -29,6 +29,7 @@ THEME = "./themes/medius_modified"
 MENUITEMS = (('Blog', '/blog/'),
              ('Calendar', '/calendar'),
              ('Wiki','/wiki/'),
+             ('Github','http://github.com/purduelug'),
              ('About', '/about-us.html'),
              ('Getting Help', '/getting-help.html'),
              )
