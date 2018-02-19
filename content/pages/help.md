@@ -3,9 +3,11 @@ Title: Getting Help
 # Office Hours
   PLUG has office hours multiple times per week. You can find us in *Lawson B128* at the following times:
   
-  - Tue. 1:45-2:30 : *Jeff*
-  - Wed. 4:45-5:15 : *Nick*
-  - Thu. 5:00-5:45 : *Thomas*
+  - Mon. 5:00-5:30 : *Nick (tootap)*
+  - Tue. 11:00-11:30 : *Jeff (Jeff)*
+  - Wed. 12:00-12:30 : *Thomas (oats)*
+
+  *updated spring 2018*
 
 # IRC
 
