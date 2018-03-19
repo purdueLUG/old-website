@@ -5,7 +5,7 @@ Title: Getting Help
   
   - Mon. 5:00-5:30 : *Nick (tootap)*
   - Tue. 11:00-11:30 : *Jeff (Jeff)*
-  - Wed. 12:00-12:30 : *Thomas (oats)*
+  - Fri. 12:00-12:30 : *Thomas (oats)*
 
   *updated spring 2018*
 
