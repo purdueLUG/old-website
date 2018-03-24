@@ -8,6 +8,8 @@ part.  Our meetings generally consist of social gatherings where we get
 together and talk tech, presentations by members or outside parties,
 expositions to the public at large, etc.
 
+Join our mailing list [here](https://groups.google.com/forum/#!forum/purduelug/join).
+
 You can find our irc at <a href="irc://irc.freenode.net/#purduelug">irc://irc.freenode.net/#purduelug</a>
 
 Check out our Github organization for some of our projects.
