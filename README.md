@@ -1,7 +1,7 @@
 # The purduelug.org pelican website.
 
 ## Dependencies
-    pip install pelican pykwiki ghp-import
+    pip install pelican pykwiki markdown ghp-import
     
 ## Building and Publishing
 Use a live updating development server
