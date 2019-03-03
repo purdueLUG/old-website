@@ -1,5 +1,12 @@
 Title: Getting Help
 
+# Office Hours
+  PLUG has office hours during the week. You can find us in *Lawson B128* at the following times:
+
+  - Tues. 11:45a-1:15p : *Slater (Stafford)*
+
+  *updated spring 2019*
+
 # IRC
 
   We are available for contact in the `#purduelug` IRC channel on `irc.freenode.net`.  Join with your favorite IRC client, or use the webchat below.
