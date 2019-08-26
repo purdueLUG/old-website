@@ -12,7 +12,7 @@ Join our mailing list [here](https://groups.google.com/forum/#!forum/purduelug/j
 
 You can find our irc at <a href="irc://irc.freenode.net/#purduelug">irc://irc.freenode.net/#purduelug</a>
 
-Check out our Github organization for some of our projects.
+Check out our [Github organization](https://github.com/purduelug) for some of our projects.
 
 
 # Past Officers
