@@ -19,7 +19,7 @@ Check out our [Github organization](https://github.com/purduelug) for some of ou
 
 |    Year | President        | Vice President | Treasurer        | Webmaster     | Member at Large |
 |---------|------------------|----------------|------------------|---------------|-----------------|
-| 2019-20 | Thomas Berryhill | Dominic Yoder  | Jacob Slater     |               |                 |
+| 2019-20 | Thomas Berryhill | Dominic Yoder  | Jacob Slater     |               | Thomas Kennell  |
 | 2018-19 | Amol Jha         | Dominic Yoder  | Parth Shelgaonkar|               |                 |
 | 2017-18 | Thomas Berryhill | Nick Geirland  | Jeff Hughes      | Nick Geirland | Jack Cottom     |
 | 2016-17 | Evan Widloski    | Nick Geirland  | Jeff Hughes      | Nick Geirland | Dominic Yoder   |
