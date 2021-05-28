@@ -10,7 +10,7 @@ expositions to the public at large, etc.
 
 Join our mailing list [here](https://groups.google.com/forum/#!forum/purduelug/join).
 
-You can find our irc at <a href="irc://irc.freenode.net/#purduelug">irc://irc.freenode.net/#purduelug</a>
+You can find our irc at <a href="irc://irc.libera.chat/#purduelug">irc://irc.libera.chat/#purduelug</a>
 
 Check out our [Github organization](https://github.com/purduelug) for some of our projects.
 
