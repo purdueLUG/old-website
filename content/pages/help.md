@@ -13,9 +13,9 @@ Title: Getting Help
 
 # IRC
 
-  We are available for contact in the `#purduelug` IRC channel on `irc.libera.chat`.  Join with your favorite IRC client, or use the webchat below.
-  
-<iframe src="https://kiwiirc.com/client/irc.libera.chat/?nick=Webchat|?&theme=mini#purduelug" style="border:0; width:100%; height:450px;"></iframe>
+  You can find us on Matrix at [`#purduelug:boiler.social`](https://matrix.to/#/#purduelug:boiler.social) or on irc at [`irc://irc.libera.chat/#purduelug`](irc://irc.libera.chat/#purduelug)
+
+<iframe src="https://web.libera.chat/?nick=PLUGWebUser|?#purduelug" style="border:0; width:100%; height:450px;"></iframe>
 
 # Email
 

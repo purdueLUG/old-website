@@ -10,7 +10,7 @@ expositions to the public at large, etc.
 
 Join our mailing list [here](https://groups.google.com/forum/#!forum/purduelug/join).
 
-You can find us on Matrix at [`#purduelug:boiler.social`](https://matrix.to/#/#purduelug:boiler.social) or on irc at <a href="irc://irc.libera.chat/#purduelug">irc://irc.libera.chat/#purduelug</a>
+You can find us on Matrix at [`#purduelug:boiler.social`](https://matrix.to/#/#purduelug:boiler.social) or on irc at [`irc://irc.libera.chat/#purduelug`](irc://irc.libera.chat/#purduelug)
 
 Check out our [Github organization](https://github.com/purduelug) for some of our projects.
 
