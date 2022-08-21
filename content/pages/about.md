@@ -2,9 +2,9 @@ title: About Us
 date: 2017-01-29
 
 The Purdue Linux Users Group (PLUG) is a Free/Open Source Software
-enthusiast club that was founded in 1994.  Members are interested in not just Linux, but also
+enthusiast club that was founded in 1994. Members are interested in not just Linux, but also
 BSD, Mac OSX, and other software that is Free/Open Source in whole or in
-part.  Our meetings generally consist of social gatherings where we get
+part. Our meetings generally consist of social gatherings where we get
 together and talk tech, presentations by members or outside parties,
 expositions to the public at large, etc.
 
@@ -14,11 +14,11 @@ You can find us on Matrix at [`#purduelug:boiler.social`](https://matrix.to/#/#p
 
 Check out our [Github organization](https://github.com/purduelug) for some of our projects.
 
-
 # Past Officers
 
 |    Year | President        | Vice President | Treasurer        | Webmaster     | Secretary    | Member at Large |
 |---------|------------------|----------------|------------------|---------------|--------------|-----------------|
+| 2022-23 | Caleb Berger     |                | Dominic Russo    |               | Dominic Russo|                 |
 | 2021-22 | Larkin Nickle    | Dominic Yoder  | Caleb Berger     | Thomas Kennell| Dominic Russo|                 |
 | 2020-21 | Jacob Slater     | Dominic Yoder  | Caleb Berger     |               |              | Thomas Kennell  |
 | 2019-20 | Thomas Berryhill | Dominic Yoder  | Jacob Slater     |               |              | Thomas Kennell  |

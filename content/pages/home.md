@@ -7,5 +7,7 @@ status: hidden
 
 We are a Purdue organization that supports Linux, open source software, and Unix-like environments like Mac OSX and BSD.
 
+Check the [calendar](/calendar.html) for upcoming events and meetings!
+
 <img src="files/gunter.png" style="display:block;margin:auto;">
 
