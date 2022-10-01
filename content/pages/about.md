@@ -20,8 +20,8 @@ Check out our [Github organization](https://github.com/purduelug) for some of ou
 |---------|------------------|----------------|------------------|---------------|--------------|-----------------|
 | 2022-23 | Caleb Berger     |                | Dominic Russo    |               | Dominic Russo|                 |
 | 2021-22 | Larkin Nickle    | Dominic Yoder  | Caleb Berger     | Thomas Kennell| Dominic Russo|                 |
-| 2020-21 | Jacob Slater     | Dominic Yoder  | Caleb Berger     |               |              | Thomas Kennell  |
-| 2019-20 | Thomas Berryhill | Dominic Yoder  | Jacob Slater     |               |              | Thomas Kennell  |
+| 2020-21 | June Slater      | Dominic Yoder  | Caleb Berger     |               |              | Thomas Kennell  |
+| 2019-20 | Thomas Berryhill | Dominic Yoder  | June Slater      |               |              | Thomas Kennell  |
 | 2018-19 | Amol Jha         | Dominic Yoder  | Parth Shelgaonkar|               |              |                 |
 | 2017-18 | Thomas Berryhill | Nick Geirland  | Jeff Hughes      | Nick Geirland |              | Jack Cottom     |
 | 2016-17 | Evan Widloski    | Nick Geirland  | Jeff Hughes      | Nick Geirland |              | Dominic Yoder   |
