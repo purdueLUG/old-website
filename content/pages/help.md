@@ -3,13 +3,9 @@ Title: Getting Help
 # Office Hours
   PLUG has office hours during the week. You can find us in *Lawson B128* at the following times:
 
-  - Mon. 1:30p-2:30 -- *Jacob Slater (igloo22225)*
-  - Tues. 11:00a-12:00 -- *Thomas Berryhill (oats)*
-  - Wed. 1:00p-2:00 -- *Dominic Yoder (BODpc)*
-  - Thur. 11:30p-12:30 -- *Caleb Berger (c-x-berger)*
-  - Thur. 3:00p-4:00 -- *Thomas Kennell (Gophyr)*
+  - TBD
 
-  *updated spring 2020*
+  *Updated Aug 2023*
 
 # IRC
 
