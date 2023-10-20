@@ -15,4 +15,4 @@ Publish to github pages
 Type `make` to see more options
 Use `git` as usual for managing wiki source content.
 
-
+Don't forget to git commit/push/pull your source files!
